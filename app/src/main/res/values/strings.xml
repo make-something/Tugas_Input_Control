@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">praktikum lab 3</string>
+    <string-array name="Kelas">
+        <item>informatika 1</item>
+        <item>informatika 1</item>
+    </string-array>
+</resources>
